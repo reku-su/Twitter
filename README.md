@@ -1,6 +1,6 @@
-# Project 3 - *Tweetie*
+# Twitter - Part I
 
-**Tweetie** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **9** hours spent in total
 
@@ -24,4 +24,3 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/2Yu59J8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
